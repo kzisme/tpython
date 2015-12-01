@@ -1,10 +1,17 @@
-Think Python || Practice 
+Think Python || Chapter 1
 =======================
 
-This repo is used to work through the book "Think Python: How to Think Like a
-Computer Scientist".  
+Python is an interperted - High Level programming language much like C, C++, or
+Java.
 
-Code examples, definitions, and small programs related to the book will also
-reside here.
+A good portion of your time will be spent _debugging_ errors within your
+program.  
+
+The types of error you can encounter can be 
+
+* Syntax
+* Runtime
+* Semantic 
+
 
 
