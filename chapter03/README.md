@@ -100,8 +100,8 @@ When writing and calling functions it is important to keep scope in mind.  When
 a variable is used within a function it is **local** to that function.
 
 Two types of functions we have seen so far are
-1. Fruitful functions - value returning 
-2. Void functions - not value returning 
+    1. Fruitful functions - value returning 
+    2. Void functions - not value returning 
 
 Why use functions?
 * Easier to group statements
