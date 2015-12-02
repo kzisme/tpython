@@ -1,4 +1,4 @@
-Think Python || Practice 
+Think Python || Case Study 1 - Optional 
 =======================
 
 This repo is used to work through the book "Think Python: How to Think Like a
