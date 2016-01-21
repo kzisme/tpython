@@ -6,5 +6,3 @@ Computer Scientist".
 
 Code examples, definitions, and small programs related to the book will also
 reside here.
-
-
